@@ -1,6 +1,6 @@
 h1. You heard that "Agilevent":http://www.agilevent.com is hiring, and now you'd like to join the team? 
 
-Our latest open position is a contract-to-hire remote position. Yes, this means you get to work from a coffee shop, your house, grandma & grandpa's, with or without pants (we won't judge you). You can live in Minneapolis, Phoenix, NYC, wherever - it doesn't matter. 
+Our latest open position is a contract-to-hire remote position. Yes, this means you get to work from a coffee shop, your house, grandma & grandpa's, wherever. You can live in Minneapolis, Phoenix, NYC, wherever - it doesn't matter. 
 
 h3. In order to be considered for a position at Agilevent, you must follow these steps.
 
