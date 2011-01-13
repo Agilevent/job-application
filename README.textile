@@ -1,6 +1,6 @@
 h1. You heard that "Agilevent":http://www.agilevent.com is hiring, and now you'd like to join the team? 
 
-Please note that these tests all require some basic "java":http://heather.cs.ucdavis.edu/~matloff/Java/JavaIntro.html and "Android":http://d.android.com knowledge. If you don't know java, "take a few minutes to learn the basics":http://mobile.tutsplus.com/series/learn-java-android-development/ and if you don't know Android "learn about it here":http://d.android.com/resources/index.html .  You will need to have "Java":http://www.java.com/en/download/, "Eclipse":http://eclipse.org (or "IntelliJ":http://www.jetbrains.com/idea/download/), and the "Android SDK":http://d.android.com/sdk/index.html installed.
+Our latest open position is a contract-to-hire remote position. Yes, this means you get to work from a coffee shop, your house, grandma & grandpa's, with or without pants (we won't judge you). You can live in Minneapolis, Phoenix, NYC, wherever - it doesn't matter. 
 
 h3. In order to be considered for a position at Agilevent, you must follow these steps.
 
@@ -13,3 +13,7 @@ h3. In order to be considered for a position at Agilevent, you must follow these
 # Add your resume to the *resume* directory
 # Commit and Push your code to your new repository
 # Send us a pull request, we will review your code and get back to you
+
+Please note that these tests all require some basic "java":http://heather.cs.ucdavis.edu/~matloff/Java/JavaIntro.html and "Android":http://d.android.com knowledge. If you don't know java, "take a few minutes to learn the basics":http://mobile.tutsplus.com/series/learn-java-android-development/ and if you don't know Android "learn about it here":http://d.android.com/resources/index.html .  You will need to have "Java":http://www.java.com/en/download/, "Eclipse":http://eclipse.org (or "IntelliJ":http://www.jetbrains.com/idea/download/), and the "Android SDK":http://d.android.com/sdk/index.html installed.
+
+
