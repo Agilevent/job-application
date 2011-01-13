@@ -16,5 +16,4 @@ h3. In order to be considered for a position at Agilevent, you must follow these
 
 Please note that these tests all require some basic "java":http://heather.cs.ucdavis.edu/~matloff/Java/JavaIntro.html and "Android":http://d.android.com knowledge. If you don't know java, "take a few minutes to learn the basics":http://mobile.tutsplus.com/series/learn-java-android-development/ and if you don't know Android "learn about it here":http://d.android.com/resources/index.html .  You will need to have "Java":http://www.java.com/en/download/, "Eclipse":http://eclipse.org (or "IntelliJ":http://www.jetbrains.com/idea/download/), and the "Android SDK":http://d.android.com/sdk/index.html installed.
 
-If you noticed this, bonus points for reading the commit history. Let us know by including the words "Pants On!" in your Android app that you submit.
 
