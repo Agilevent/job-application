@@ -1,6 +1,6 @@
-h1. You heard that "Agilevent":http://www.agilevent.com) is hiring, and now you'd like to join the team? 
+h1. You heard that "Agilevent":http://www.agilevent.com is hiring, and now you'd like to join the team? 
 
-*Please note that these tests all require some basic java:http://heather.cs.ucdavis.edu/~matloff/Java/JavaIntro.html and Android:http://d.android.com knowledge. If you don't know java, "take a few minutes to learn the basics":http://mobile.tutsplus.com/series/learn-java-android-development/ and if you don't know Android learn about it here:http://d.android.com/resources/index.html .  You will need to have Java, Eclipse (or IntelliJ), and the "Android SDK":http://d.android.com/sdk/index.html installed.*
+Please note that these tests all require some basic "java":http://heather.cs.ucdavis.edu/~matloff/Java/JavaIntro.html and Android:http://d.android.com knowledge. If you don't know java, "take a few minutes to learn the basics":http://mobile.tutsplus.com/series/learn-java-android-development/ and if you don't know Android "learn about it here":http://d.android.com/resources/index.html .  You will need to have Java, Eclipse (or IntelliJ), and the "Android SDK":http://d.android.com/sdk/index.html installed.*
 
 h3. In order to be considered for a position at Agilevent, you must follow these steps.
 
