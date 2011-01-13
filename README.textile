@@ -9,7 +9,7 @@ h3. In order to be considered for a position at Agilevent, you must follow these
 ** Connect to the github API
 ** Find the "rails/rails":http://github.com/rails/rails repository
 ** Find the most recent commits
-** Create a ListView that groups the recent commits by author in a custom view. e.g. !https://github.com/Agilevent/job-application/blob/master/example.jpg!
+** Create a ListView that groups the recent commits by author in a custom view. "e.g.":https://github.com/Agilevent/job-application/blob/master/example.jpg
 # Add your resume to the *resume* directory
 # Commit and Push your code to your new repository
 # Send us a pull request, we will review your code and get back to you
