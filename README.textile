@@ -8,7 +8,7 @@ h3. In order to be considered for a position at Agilevent, you must follow these
 # In the *github-challenge* directory, please create an Android app that accomplishes the following:
 ** Connect to the "github API":http://develop.github.com/
 ** Find the "rails/rails":http://github.com/rails/rails repository
-** Find the most recent commits
+** Find the most recent commits (choose at least 50 or more of them)
 ** Create a ListView that groups the recent commits by author in a custom view. "e.g.":https://github.com/Agilevent/job-application/blob/master/example.jpg
 # Add your resume to the *resume* directory
 # Commit and Push your code to your new repository
